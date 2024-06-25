@@ -6,7 +6,7 @@ I'm for now, not developping around github, just pushing elements that are finis
 
 <h3 align="left">Connect with me:</h3>
 
-WIP
+WIP :grimacing:
 
 <p align="left">
 </p>
