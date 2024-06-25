@@ -5,6 +5,9 @@ I'm a junior Full-Stack-Developper who is trying sooner or later, to make a vide
 I'm for now, not developping around github, just pushing elements that are finished or not, maybe later on 👀
 
 <h3 align="left">Connect with me:</h3>
+
+WIP
+
 <p align="left">
 </p>
 
